@@ -1,0 +1,3 @@
+[submodule "packages/node_modules/grunt-cli"]
+	path = packages/node_modules/grunt-cli
+	url = git@github.com:JaysonHurst/grunt-cli-fips.git

@@ -88,7 +88,7 @@
         "dompurify": "2.4.1",
         "grunt": "1.6.1",
         "grunt-chmod": "~1.1.1",
-        "grunt-cli": "~1.4.3",
+        "grunt-cli": "file:packages/node_modules/grunt-cli",
         "grunt-concurrent": "3.0.0",
         "grunt-contrib-clean": "2.0.1",
         "grunt-contrib-compress": "2.0.0",
